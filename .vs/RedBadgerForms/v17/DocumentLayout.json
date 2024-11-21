@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\",
+  "WorkspaceRootPath": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\source\\repos\\redbadgerforms\\redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\source\\repos\\redbadgerforms\\redbadgerforms\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\source\\repos\\redbadgerforms\\redbadgerforms\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\desktop\\redbadgerforms - copy\\redbadgerforms\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\source\\repos\\redbadgerforms\\redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\desktop\\redbadgerforms - copy\\redbadgerforms\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\desktop\\redbadgerforms - copy\\redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\desktop\\redbadgerforms - copy\\redbadgerforms\\gridelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\gridelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|c:\\users\\jamie\\desktop\\redbadgerforms - copy\\redbadgerforms\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\redbadgerforms\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EEA3960A-0154-4447-A690-2CB0F0EE4028}|RedBadgerForms\\RedBadgerForms.csproj|solutionrelative:redbadgerforms\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "RedBadgerForms\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Properties\\Resources.resx",
+              "RelativeToolTip": "RedBadgerForms\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-20T22:24:04.93Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Grid.cs",
-              "DocumentMoniker": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Grid.cs",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Grid.cs",
               "RelativeDocumentMoniker": "RedBadgerForms\\Grid.cs",
-              "ToolTip": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Grid.cs",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Grid.cs",
               "RelativeToolTip": "RedBadgerForms\\Grid.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:28:55.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T11:47:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Form1.cs",
+              "RelativeDocumentMoniker": "RedBadgerForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms\\RedBadgerForms\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\RedBadgerForms\\RedBadgerForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:01:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridElement.cs",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\GridElement.cs",
+              "RelativeDocumentMoniker": "RedBadgerForms\\GridElement.cs",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\GridElement.cs",
+              "RelativeToolTip": "RedBadgerForms\\GridElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:57:45.082Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Form1.cs",
+              "RelativeDocumentMoniker": "RedBadgerForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Form1.cs",
+              "RelativeToolTip": "RedBadgerForms\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:58:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Robot.cs",
               "RelativeDocumentMoniker": "RedBadgerForms\\Robot.cs",
-              "ToolTip": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Robot.cs",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\Robot.cs",
               "RelativeToolTip": "RedBadgerForms\\Robot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwE8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T17:26:46.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Form1.cs",
-              "RelativeDocumentMoniker": "RedBadgerForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Form1.cs",
-              "RelativeToolTip": "RedBadgerForms\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CommandProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\CommandProcessor.cs",
+              "RelativeDocumentMoniker": "RedBadgerForms\\CommandProcessor.cs",
+              "ToolTip": "C:\\Users\\Jamie\\Desktop\\RedBadgerForms - Copy\\RedBadgerForms\\CommandProcessor.cs",
+              "RelativeToolTip": "RedBadgerForms\\CommandProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:58:55.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Form1.cs",
-              "RelativeDocumentMoniker": "RedBadgerForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jamie\\source\\repos\\RedBadgerForms\\RedBadgerForms\\Form1.cs [Design]",
-              "RelativeToolTip": "RedBadgerForms\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:09:57.93Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-20T22:03:26.654Z"
             }
           ]
         }
